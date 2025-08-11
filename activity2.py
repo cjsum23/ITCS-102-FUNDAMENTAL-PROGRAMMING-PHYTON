@@ -4,6 +4,7 @@ f = "BSIT 1-A"
 g = "1st Year"
 
 print("Name :", m)
-print("Age :", m)
-print("Section :", m)
-print(" :", m)
+print("Age :", d)
+print("Section :", f)
+
+print("Year :", m)

@@ -1,0 +1,1 @@
+print ("GOOD MORNING \n HAVE A WORNDERUL DAY \n \t\t GOOD NIGHT")

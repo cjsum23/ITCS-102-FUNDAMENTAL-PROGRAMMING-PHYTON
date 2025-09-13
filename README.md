@@ -12,6 +12,9 @@
  - [ACT9](ACT9.py)
  - [ACT10](ACT10.py)
  - [ACT11](Act11.py)
+ - [ACT12](Act12.py)
+ - [ACT13](Act13.py)
+ - [ACT14](Act14.py)
 
    # Code Challenge
 

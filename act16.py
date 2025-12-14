@@ -1,7 +1,9 @@
-a = eval(input("Input Number --> "))
+def Act16():
+    
+    a = eval(input("Input Number --> "))
 
-for i in range(1,11,1):
+    for i in range(1,11,1):
 
-    b = a * i 
+        b = a * i 
 
-    print(a,"x", i, "=", b)
+        print(a,"x", i, "=", b)
